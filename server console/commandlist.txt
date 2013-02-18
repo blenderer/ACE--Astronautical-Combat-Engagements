@@ -1,0 +1,7 @@
+room create <roomname> <gametype>
+room list
+player add <playername> <ip address>
+player remove <roomname> <playername>
+player join <roomname> <playername>
+player list
+player kick <playername>
